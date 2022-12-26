@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975716572876",
+    "project_id": "intelligent-erp-system",
+    "storage_bucket": "intelligent-erp-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975716572876:android:76abdbe5bac55524436c69",
+        "android_client_info": {
+          "package_name": "com.example.intelligenterpsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975716572876-70ro3g78vda85v2r4frce3m7p28i73hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_WhHW4QQBLfSprMs9IHp00EtvB4RMJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975716572876-70ro3g78vda85v2r4frce3m7p28i73hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
